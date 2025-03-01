@@ -28,6 +28,7 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 3. Prepare your tokens:
+   Inpect Extension Search Application Tab - Extension Storage - copy accessToken and refreshToken
    - Add your **access tokens** to `token.txt` (one per line).
    - Add your **refresh tokens** to `refresh.txt` (one per line).
    - (Optional) Add proxies to `proxy.txt` (one per line) if you want to use proxy mode.
