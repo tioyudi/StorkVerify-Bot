@@ -1,4 +1,4 @@
-# Stork Oracle Auto Validation Bot
+# Stork Auto Validation Bot
 
 ## 📌 Deskripsi
 Script ini secara otomatis memvalidasi signed price dari API Stork Oracle menggunakan akses token. Jika token tidak valid, script akan mencoba me-refresh token menggunakan refresh token.
